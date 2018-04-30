@@ -1,6 +1,6 @@
 # Particles.js-Vortex
 
-![Screenshot](https://raw.githubusercontent.com/Florin-Birgu/Particles.js-Vortex/master/screenshot.png)
+[![Screenshot](https://raw.githubusercontent.com/Florin-Birgu/Particles.js-Vortex/master/screenshot.png)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Florin-Birgu/Particles.js-Vortex/master/vortex.html)
 
 Particles vortex effect created with Particles.js and glMatrix
 
