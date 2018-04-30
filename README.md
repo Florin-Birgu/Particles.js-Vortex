@@ -1,7 +1,6 @@
 # Particles.js-Vortex
 
-![Screenshot]
-(screenshot.png)
+![Screenshot](screenshot.png)
 
 Particles vortex effect created with Particles.js and glMatrix
 
