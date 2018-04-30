@@ -1,6 +1,6 @@
 # Particles.js-Vortex
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Florin-Birgu/Particles.js-Vortex/master/screenshot.png)
 
 Particles vortex effect created with Particles.js and glMatrix
 
@@ -29,7 +29,7 @@ particles.js:569
             }
 ```
 
-
+html header
 ```html
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gl-matrix/2.4.0/gl-matrix-min.js"></script>
 
